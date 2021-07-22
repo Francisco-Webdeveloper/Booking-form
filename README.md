@@ -49,3 +49,6 @@ Improvement of the form's UX by:
 
 - Toggling `-` link: **enable** the link when the number of participants is **`>= 2`** and **disable** it otherwise (the counter should never reach `0` nor negative values).
 - Hiding the input (you may want to look into [input types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)), it should not be visible to your users in your form's final version!
+
+### Other information
+You can also check the code and and test the app 👉 https://codepen.io/francisco-frontend/full/WNjZzBj
